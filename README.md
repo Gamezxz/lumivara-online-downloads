@@ -8,8 +8,11 @@
 
 - `Lumivara.Online-0.1.0-arm64.dmg` — ตัวติดตั้ง macOS สำหรับ Apple Silicon (M1/M2/M3/M4 และรุ่นใหม่กว่า)
 - `Lumivara.Online-0.1.0-arm64-mac.zip` — แอป macOS แบบ ZIP สำหรับ Apple Silicon
+- `Lumivara.Online-0.1.0-win-x64-portable.exe` — Windows 10/11 แบบ 64-bit เปิดเล่นได้โดยไม่ต้องติดตั้ง
 
 แอป macOS เซ็นด้วย Developer ID และผ่าน Apple Notarization แล้ว
+
+รุ่น Windows Portable ยังไม่ได้เซ็น Authenticode จึงอาจแสดงคำเตือน Microsoft Defender SmartScreen ในช่วงแรก
 
 ## วิธีติดตั้งบน macOS
 
@@ -18,6 +21,12 @@
 3. เปิดเกมจาก Applications
 
 เกมจะโหลดข้อมูลล่าสุดจาก [lumivaraonline.com](https://lumivaraonline.com/) และต้องเชื่อมต่ออินเทอร์เน็ต
+
+## วิธีเปิดบน Windows
+
+1. ดาวน์โหลดไฟล์ Portable `.exe`
+2. เก็บไฟล์ไว้ในโฟลเดอร์ที่ต้องการ
+3. ดับเบิลคลิกเพื่อเปิดเกมได้ทันที โดยไม่ต้องติดตั้ง
 
 ## ตรวจสอบไฟล์
 
