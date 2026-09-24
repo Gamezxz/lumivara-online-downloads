@@ -1,2 +1,2 @@
 6c091f1ea1b1e5f8eea4c6a7446791da1dcf5785e990613b96a3beb9163f5f0e  Lumivara Online-0.1.0-arm64.dmg
-ee5f0e8083b6b0e93ceee22290705f49ca288d03f32fab46f1058adba291579e  Lumivara Online-0.1.0-arm64-mac.zip
+66e3342ecbdeded1963268447e42675843f814fe0dc2dba5144ae89e193cf568  Lumivara Online-0.1.0-arm64-mac.zip
