@@ -6,8 +6,8 @@
 
 ไปที่หน้า [Releases](https://github.com/Gamezxz/lumivara-online-downloads/releases/latest) แล้วเลือกไฟล์สำหรับเครื่องของคุณ:
 
-- `Lumivara Online-0.1.0-arm64.dmg` — ตัวติดตั้ง macOS สำหรับ Apple Silicon (M1/M2/M3/M4 และรุ่นใหม่กว่า)
-- `Lumivara Online-0.1.0-arm64-mac.zip` — แอป macOS แบบ ZIP สำหรับ Apple Silicon
+- `Lumivara.Online-0.1.0-arm64.dmg` — ตัวติดตั้ง macOS สำหรับ Apple Silicon (M1/M2/M3/M4 และรุ่นใหม่กว่า)
+- `Lumivara.Online-0.1.0-arm64-mac.zip` — แอป macOS แบบ ZIP สำหรับ Apple Silicon
 
 แอป macOS เซ็นด้วย Developer ID และผ่าน Apple Notarization แล้ว
 
@@ -22,4 +22,3 @@
 ## ตรวจสอบไฟล์
 
 ค่า SHA-256 อยู่ในไฟล์ `SHA256SUMS.txt` ที่แนบในแต่ละ Release
-
