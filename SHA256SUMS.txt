@@ -1,3 +1,5 @@
+1d78d8dbc96bb0359da189af9fc7cbbd5bc3d4050f81a72494639a7dbf1d5470  Lumivara-Online-4.3-Setup-x64.exe
+cbb359463c4f124ac0bd7336b3712b7f711e5f68e79d68488c5ceda2ef367bbf  Lumivara-Online-4.3-Windows-x64.zip
+353a0b10ddfb1dc2eabef8db75020bd9d2a75c558fc8b973068a1deb4ee0e5a8  Lumivara-Online-Android-1.9.apk
 6c091f1ea1b1e5f8eea4c6a7446791da1dcf5785e990613b96a3beb9163f5f0e  Lumivara.Online-0.1.0-arm64.dmg
 66e3342ecbdeded1963268447e42675843f814fe0dc2dba5144ae89e193cf568  Lumivara.Online-0.1.0-arm64-mac.zip
-1ea6a5d8045e04a3e3132724a9039ae5ca316edda85ef7a1b660cc6c1b2d3879  Lumivara.Online-0.1.0-win-x64-portable.exe
