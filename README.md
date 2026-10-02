@@ -1,4 +1,3 @@
-
 # Lumivara Online Client
 
 โปรแกรมสำหรับเล่น Lumivara Online บน Windows 64-bit พร้อมโหมด Picture-in-Picture และคีย์ลัดควบคุมหน้าต่าง
